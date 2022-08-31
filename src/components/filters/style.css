@@ -1,0 +1,12 @@
+.clearFilters {
+    border-radius: 6px;
+    border: 1px solid white;
+    transition: all ease 400ms;
+    font-weight: 500;
+}
+
+.clearFilters:hover {
+    border: 1px solid #DC3545;
+    background-color: white !important;
+    color: black !important;
+}
